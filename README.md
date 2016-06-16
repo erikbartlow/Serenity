@@ -12,6 +12,9 @@ Serenity is an ASP.NET MVC / TypeScript application platform designed to simplif
 It aims to make development easier while reducing maintenance costs by avoiding boiler-plate code, reducing the time spent on repetitive tasks and applying best software design practices. 
 
 <img src="https://github.com/volkanceylan/Serene/blob/master/Template/img/SereneAnimation.gif" />
+## Purpose of Fork
+
+The purpose of this fork is to extend the capability of the project to more easily consume the results of a Stored Procedure.
 
 ## Documentation
 
